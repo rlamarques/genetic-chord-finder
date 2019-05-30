@@ -10,3 +10,18 @@ keyGs = ('G#', ['G#', 'A#m', 'Cm', 'C#', 'D#', 'Fm', 'Gm'])
 keyA = ('A', ['A', 'Bm', 'C#m', 'D', 'E', 'F#m', 'G#m'])
 keyAs = ('A#', ['A#', 'Cm', 'Dm', 'D#', 'F', 'Gm', 'Am'])
 keyB = ('B', ['B', 'C#m', 'D#m', 'E', 'F#', 'D#m', 'A#m'])
+
+harmonic_fields = {
+    'C' : keyC,
+    'C#': keyCs,
+    'D' : keyD,
+    'D#': keyD,
+    'E' : keyE,
+    'F' : keyF,
+    'F#': keyFs,
+    'G' : keyG,
+    'G#': keyGs,
+    'A' : keyA,
+    'A#': keyAs,
+    'B' : keyB
+}
